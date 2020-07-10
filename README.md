@@ -1,2 +1,2 @@
-# Project-C21
-Bullet-to-wall testing
+# p5.play-boilerplate
+Boiler plate for p5.play
